@@ -10,6 +10,8 @@ import UIKit
 
 let userName = "Saad Meah"
 
+let DOB = 1987
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
